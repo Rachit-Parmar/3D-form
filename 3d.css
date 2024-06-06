@@ -31,7 +31,7 @@
     transform: rotateY(70deg);
     left: calc(50% + 25rem);
   }
-  
+  /*  */
   .forms-wrapper form {
     width: 50rem;
     height: 35rem;
